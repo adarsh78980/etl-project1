@@ -1,0 +1,251 @@
+OrderID,OrderDate,CustomerID,ProductID,ProductName,Category,City,State,Region,Quantity,UnitPrice,DiscountPct,GrossAmount,DiscountAmount,ShippingFee,NetAmount,CostAmount,Profit,PaymentMethod,SalesChannel,OrderStatus
+ORD50191,2025-04-17,CUST1053,P011,External SSD 1TB,Storage,Mumbai,Maharashtra,West,2,6899.0,5.0,13798.0,689.9,79.0,13187.1,8448.88,4738.22,Cash on Delivery,Website,Delivered
+ORD50007,2025-06-03,CUST1062,P007,Noise Cancelling Headphones,Audio,Delhi,Delhi,North,4,7873.950000000001,10.0,31495.8,3149.58,79.0,28425.22,20628.74,7796.48,Cash on Delivery,Mobile App,Delivered
+ORD50080,2025-06-22,CUST1002,P004,27-inch Monitor,Electronics,Chennai,Tamil Nadu,South,2,19423.95,10.0,38847.9,3884.79,49.0,35012.11,29456.27,5555.84,Debit Card,Marketplace,Delivered
+ORD50206,2025-06-24,CUST1048,P007,Noise Cancelling Headphones,Audio,Pune,Maharashtra,West,4,7873.950000000001,0.0,31495.8,0.0,99.0,31594.8,19685.7,11909.1,Cash on Delivery,Marketplace,Returned
+ORD50118,2025-04-09,CUST1001,P009,Power Bank,Electronics,Pune,Maharashtra,West,1,1799.1,15.0,1799.1,269.86,0.0,1529.24,1440.21,89.03,Cash on Delivery,Website,Delivered
+ORD50186,2025-05-04,CUST1039,P010,Desk Lamp,Home Office,Bengaluru,Karnataka,South,3,1499.0,10.0,4497.0,449.7,0.0,4047.3,3257.51,789.79,Net Banking,Website,Delivered
+ORD50202,2025-04-10,CUST1074,P008,Webcam,Electronics,Mumbai,Maharashtra,West,3,3299.0,20.0,9897.0,1979.4,99.0,8016.6,6672.52,1344.08,Cash on Delivery,Mobile App,Delivered
+ORD50168,2025-06-03,CUST1020,P009,Power Bank,Electronics,Kolkata,West Bengal,East,4,1799.1,5.0,7196.4,359.82,49.0,6885.58,4962.27,1923.31,Net Banking,Mobile App,Cancelled
+ORD50010,2025-04-08,CUST1062,P002,Mechanical Keyboard,Accessories,Pune,Maharashtra,West,1,2499.0,10.0,2499.0,249.9,49.0,2298.1,1788.43,509.67,Debit Card,Mobile App,Cancelled
+ORD50031,2025-04-18,CUST1080,P009,Power Bank,Electronics,Pune,Maharashtra,West,2,2098.9500000000003,10.0,4197.9,419.79,0.0,3778.11,2747.43,1030.68,Net Banking,Website,Cancelled
+ORD50181,2025-06-08,CUST1044,P006,Bluetooth Speaker,Audio,Hyderabad,Telangana,South,3,2699.1,15.0,8097.3,1214.6,49.0,6931.7,5676.23,1255.47,Net Banking,Marketplace,Shipped
+ORD50222,2025-05-22,CUST1004,P003,USB-C Hub,Accessories,Hyderabad,Telangana,South,3,1678.95,15.0,5036.85,755.53,99.0,4380.32,3207.1,1173.22,Credit Card,Website,Returned
+ORD50230,2025-06-08,CUST1063,P011,External SSD 1TB,Storage,Bengaluru,Karnataka,South,2,7243.950000000001,15.0,14487.9,2173.18,99.0,12413.72,10656.78,1756.94,Cash on Delivery,Mobile App,Delivered
+ORD50217,2025-04-09,CUST1011,P010,Desk Lamp,Home Office,Pune,Maharashtra,West,3,1573.95,5.0,4721.85,236.09,0.0,4485.76,3721.54,764.22,Net Banking,Mobile App,Delivered
+ORD50137,2025-04-12,CUST1025,P001,Wireless Mouse,Accessories,Pune,Maharashtra,West,2,799.0,5.0,1598.0,79.9,99.0,1617.1,989.3,627.8,Net Banking,Website,Delivered
+ORD50069,2025-06-04,CUST1060,P010,Desk Lamp,Home Office,Delhi,Delhi,North,1,1349.1,0.0,1349.1,0.0,0.0,1349.1,1099.85,249.25,Net Banking,Mobile App,Delivered
+ORD50199,2025-05-13,CUST1029,P010,Desk Lamp,Home Office,Bengaluru,Karnataka,South,2,1499.0,10.0,2998.0,299.8,49.0,2747.2,2212.83,534.37,Debit Card,Mobile App,Returned
+ORD50016,2025-05-12,CUST1022,P002,Mechanical Keyboard,Accessories,Bengaluru,Karnataka,South,1,2499.0,5.0,2499.0,124.95,99.0,2473.05,1869.08,603.97,Net Banking,Marketplace,Returned
+ORD50097,2025-04-08,CUST1044,P004,27-inch Monitor,Electronics,Kolkata,West Bengal,East,1,19423.95,10.0,19423.95,1942.4,79.0,17560.55,13855.31,3705.24,Cash on Delivery,Website,Delivered
+ORD50025,2025-06-09,CUST1050,P002,Mechanical Keyboard,Accessories,Bengaluru,Karnataka,South,1,2623.9500000000003,15.0,2623.95,393.59,99.0,2329.36,1589.74,739.62,Cash on Delivery,Marketplace,Cancelled
+ORD50235,2025-06-04,CUST1061,P004,27-inch Monitor,Electronics,Chennai,Tamil Nadu,South,1,19423.95,20.0,19423.95,3884.79,0.0,15539.16,12082.54,3456.62,Credit Card,Marketplace,Cancelled
+ORD50020,2025-06-01,CUST1009,P005,Laptop Stand,Accessories,Gurugram,Haryana,North,1,1169.1,0.0,1169.1,0.0,49.0,1218.1,718.63,499.47,UPI,Mobile App,Delivered
+ORD50121,2025-05-25,CUST1007,P004,27-inch Monitor,Electronics,Bengaluru,Karnataka,South,1,18499.0,20.0,18499.0,3699.8,99.0,14898.2,15101.03,-202.83,Credit Card,Marketplace,Shipped
+ORD50153,2025-06-08,CUST1067,P012,Wi-Fi Router,Networking,Bengaluru,Karnataka,South,1,3999.0,15.0,3999.0,599.85,0.0,3399.15,3081.12,318.03,Credit Card,Website,Shipped
+ORD50034,2025-04-08,CUST1032,P009,Power Bank,Electronics,Mumbai,Maharashtra,West,3,1999.0,20.0,5997.0,1199.4,0.0,4797.6,4813.28,-15.68,Cash on Delivery,Website,Delivered
+ORD50125,2025-06-30,CUST1074,P009,Power Bank,Electronics,Delhi,Delhi,North,1,1999.0,0.0,1999.0,0.0,0.0,1999.0,1161.34,837.66,UPI,Mobile App,Cancelled
+ORD50089,2025-05-16,CUST1025,P004,27-inch Monitor,Electronics,Hyderabad,Telangana,South,3,19423.95,15.0,58271.85,8740.78,49.0,49580.07,46517.98,3062.09,Debit Card,Website,Cancelled
+ORD50244,2025-06-14,CUST1049,P011,External SSD 1TB,Storage,Mumbai,Maharashtra,West,4,6209.1,0.0,24836.4,0.0,49.0,24885.4,16003.1,8882.3,Net Banking,Marketplace,Delivered
+ORD50011,2025-04-03,CUST1079,P007,Noise Cancelling Headphones,Audio,Chennai,Tamil Nadu,South,1,6749.1,10.0,6749.1,674.91,79.0,6153.19,4621.87,1531.32,Credit Card,Website,Cancelled
+ORD50165,2025-05-07,CUST1077,P007,Noise Cancelling Headphones,Audio,Hyderabad,Telangana,South,2,6749.1,15.0,13498.2,2024.73,79.0,11552.47,10663.93,888.54,Net Banking,Mobile App,Shipped
+ORD50185,2025-06-06,CUST1060,P008,Webcam,Electronics,Pune,Maharashtra,West,2,2969.1,15.0,5938.2,890.73,49.0,5096.47,4251.4,845.07,Debit Card,Mobile App,Returned
+ORD50098,2025-05-04,CUST1009,P012,Wi-Fi Router,Networking,Hyderabad,Telangana,South,4,3599.1,5.0,14396.4,719.82,49.0,13725.58,8518.17,5207.41,Cash on Delivery,Marketplace,Delivered
+ORD50149,2025-05-14,CUST1012,P005,Laptop Stand,Accessories,Pune,Maharashtra,West,2,1363.95,0.0,2727.9,0.0,0.0,2727.9,2206.24,521.66,UPI,Mobile App,Delivered
+ORD50210,2025-04-13,CUST1004,P009,Power Bank,Electronics,Chennai,Tamil Nadu,South,1,1799.1,15.0,1799.1,269.86,49.0,1578.24,1310.63,267.61,Debit Card,Mobile App,Cancelled
+ORD50223,2025-06-23,CUST1053,P012,Wi-Fi Router,Networking,Mumbai,Maharashtra,West,1,3999.0,0.0,3999.0,0.0,49.0,4048.0,2835.02,1212.98,Net Banking,Marketplace,Delivered
+ORD50026,2025-05-12,CUST1065,P003,USB-C Hub,Accessories,Pune,Maharashtra,West,1,1599.0,0.0,1599.0,0.0,49.0,1648.0,1245.86,402.14,Cash on Delivery,Website,Shipped
+ORD50087,2025-06-16,CUST1045,P009,Power Bank,Electronics,Hyderabad,Telangana,South,1,1799.1,0.0,1799.1,0.0,99.0,1898.1,1318.78,579.32,Net Banking,Mobile App,Delivered
+ORD50019,2025-05-24,CUST1051,P006,Bluetooth Speaker,Audio,Delhi,Delhi,North,3,2999.0,10.0,8997.0,899.7,0.0,8097.3,6621.46,1475.84,UPI,Marketplace,Delivered
+ORD50076,2025-05-24,CUST1053,P003,USB-C Hub,Accessories,Mumbai,Maharashtra,West,3,1599.0,5.0,4797.0,239.85,79.0,4636.15,3528.23,1107.92,Net Banking,Website,Shipped
+ORD50138,2025-05-24,CUST1071,P005,Laptop Stand,Accessories,Mumbai,Maharashtra,West,4,1169.1,15.0,4676.4,701.46,0.0,3974.94,3558.0,416.94,Credit Card,Website,Delivered
+ORD50196,2025-06-13,CUST1032,P012,Wi-Fi Router,Networking,Bengaluru,Karnataka,South,2,3599.1,10.0,7198.2,719.82,99.0,6577.38,4832.7,1744.68,Net Banking,Mobile App,Delivered
+ORD50177,2025-06-12,CUST1018,P012,Wi-Fi Router,Networking,Hyderabad,Telangana,South,2,4198.95,5.0,8397.9,419.9,79.0,8057.0,5860.91,2196.09,Cash on Delivery,Website,Delivered
+ORD50239,2025-04-12,CUST1057,P011,External SSD 1TB,Storage,Gurugram,Haryana,North,1,6209.1,5.0,6209.1,310.46,49.0,5947.64,4255.2,1692.44,Credit Card,Marketplace,Delivered
+ORD50182,2025-06-27,CUST1010,P006,Bluetooth Speaker,Audio,Bengaluru,Karnataka,South,2,2999.0,10.0,5998.0,599.8,0.0,5398.2,4560.63,837.57,Net Banking,Website,Delivered
+ORD50046,2025-04-30,CUST1065,P012,Wi-Fi Router,Networking,Delhi,Delhi,North,1,4198.95,20.0,4198.95,839.79,99.0,3458.16,3422.55,35.61,Debit Card,Marketplace,Returned
+ORD50067,2025-06-03,CUST1036,P009,Power Bank,Electronics,Gurugram,Haryana,North,4,2098.9500000000003,20.0,8395.8,1679.16,99.0,6815.64,6558.09,257.55,UPI,Mobile App,Delivered
+ORD50017,2025-04-25,CUST1036,P004,27-inch Monitor,Electronics,Gurugram,Haryana,North,2,18499.0,15.0,36998.0,5549.7,79.0,31527.3,22314.75,9212.55,Cash on Delivery,Website,Cancelled
+ORD50068,2025-04-08,CUST1069,P003,USB-C Hub,Accessories,Mumbai,Maharashtra,West,1,1599.0,15.0,1599.0,239.85,79.0,1438.15,1169.19,268.96,Debit Card,Website,Shipped
+ORD50207,2025-05-14,CUST1052,P007,Noise Cancelling Headphones,Audio,Bengaluru,Karnataka,South,1,7873.950000000001,0.0,7873.95,0.0,79.0,7952.95,5633.45,2319.5,Cash on Delivery,Marketplace,Delivered
+ORD50201,2025-04-24,CUST1078,P011,External SSD 1TB,Storage,Pune,Maharashtra,West,4,7243.950000000001,10.0,28975.8,2897.58,79.0,26157.22,22555.62,3601.6,Cash on Delivery,Website,Cancelled
+ORD50178,2025-04-26,CUST1006,P002,Mechanical Keyboard,Accessories,Chennai,Tamil Nadu,South,4,2249.1,20.0,8996.4,1799.28,0.0,7197.12,6370.55,826.57,Debit Card,Website,Delivered
+ORD50039,2025-05-30,CUST1022,P004,27-inch Monitor,Electronics,Hyderabad,Telangana,South,1,18499.0,5.0,18499.0,924.95,0.0,17574.05,14580.87,2993.18,Debit Card,Mobile App,Returned
+ORD50144,2025-04-03,CUST1062,P009,Power Bank,Electronics,Delhi,Delhi,North,2,2098.9500000000003,20.0,4197.9,839.58,49.0,3407.32,3200.49,206.83,UPI,Website,Delivered
+ORD50085,2025-05-10,CUST1074,P011,External SSD 1TB,Storage,Hyderabad,Telangana,South,2,7243.950000000001,0.0,14487.9,0.0,0.0,14487.9,10034.88,4453.02,UPI,Website,Returned
+ORD50056,2025-06-11,CUST1010,P010,Desk Lamp,Home Office,Chennai,Tamil Nadu,South,2,1349.1,5.0,2698.2,134.91,99.0,2662.29,1642.49,1019.8,Net Banking,Website,Shipped
+ORD50220,2025-05-22,CUST1063,P005,Laptop Stand,Accessories,Bengaluru,Karnataka,South,2,1169.1,0.0,2338.2,0.0,0.0,2338.2,1399.61,938.59,Net Banking,Mobile App,Delivered
+ORD50105,2025-05-04,CUST1029,P006,Bluetooth Speaker,Audio,Kolkata,West Bengal,East,1,2699.1,10.0,2699.1,269.91,0.0,2429.19,1608.99,820.2,Credit Card,Mobile App,Delivered
+ORD50140,2025-04-22,CUST1021,P006,Bluetooth Speaker,Audio,Mumbai,Maharashtra,West,4,3148.9500000000003,5.0,12595.8,629.79,49.0,12015.01,7640.19,4374.82,UPI,Website,Shipped
+ORD50128,2025-05-27,CUST1049,P001,Wireless Mouse,Accessories,Mumbai,Maharashtra,West,3,838.95,0.0,2516.85,0.0,99.0,2615.85,1613.0,1002.85,UPI,Mobile App,Delivered
+ORD50061,2025-06-02,CUST1008,P011,External SSD 1TB,Storage,Delhi,Delhi,North,1,6899.0,0.0,6899.0,0.0,0.0,6899.0,4021.79,2877.21,Debit Card,Marketplace,Delivered
+ORD50102,2025-05-21,CUST1071,P011,External SSD 1TB,Storage,Kolkata,West Bengal,East,2,6899.0,15.0,13798.0,2069.7,49.0,11777.3,8912.93,2864.37,Cash on Delivery,Website,Shipped
+ORD50173,2025-04-11,CUST1047,P003,USB-C Hub,Accessories,Bengaluru,Karnataka,South,2,1599.0,20.0,3198.0,639.6,49.0,2607.4,2493.82,113.58,UPI,Website,Delivered
+ORD50249,2025-04-20,CUST1046,P008,Webcam,Electronics,Gurugram,Haryana,North,3,3463.9500000000003,5.0,10391.85,519.59,99.0,9971.26,6038.01,3933.25,Debit Card,Mobile App,Cancelled
+ORD50127,2025-04-27,CUST1079,P003,USB-C Hub,Accessories,Bengaluru,Karnataka,South,3,1599.0,0.0,4797.0,0.0,0.0,4797.0,3546.27,1250.73,Cash on Delivery,Website,Delivered
+ORD50225,2025-05-05,CUST1010,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,2,3148.9500000000003,10.0,6297.9,629.79,99.0,5767.11,4817.8,949.31,Debit Card,Mobile App,Shipped
+ORD50145,2025-04-10,CUST1015,P008,Webcam,Electronics,Kolkata,West Bengal,East,2,3463.9500000000003,0.0,6927.9,0.0,79.0,7006.9,4458.03,2548.87,Cash on Delivery,Mobile App,Delivered
+ORD50109,2025-05-22,CUST1047,P003,USB-C Hub,Accessories,Pune,Maharashtra,West,2,1439.1,20.0,2878.2,575.64,0.0,2302.56,2216.43,86.13,Net Banking,Mobile App,Delivered
+ORD50179,2025-04-04,CUST1060,P003,USB-C Hub,Accessories,Mumbai,Maharashtra,West,1,1678.95,10.0,1678.95,167.9,0.0,1511.05,1236.62,274.43,Cash on Delivery,Mobile App,Returned
+ORD50074,2025-06-28,CUST1033,P004,27-inch Monitor,Electronics,Mumbai,Maharashtra,West,2,19423.95,15.0,38847.9,5827.18,79.0,33099.72,28448.74,4650.98,UPI,Mobile App,Delivered
+ORD50115,2025-05-17,CUST1003,P004,27-inch Monitor,Electronics,Mumbai,Maharashtra,West,2,16649.100000000002,20.0,33298.2,6659.64,0.0,26638.56,23224.84,3413.72,Credit Card,Mobile App,Delivered
+ORD50159,2025-05-22,CUST1048,P009,Power Bank,Electronics,Bengaluru,Karnataka,South,3,1999.0,15.0,5997.0,899.55,99.0,5196.45,4514.23,682.22,Debit Card,Marketplace,Delivered
+ORD50070,2025-05-08,CUST1014,P001,Wireless Mouse,Accessories,Mumbai,Maharashtra,West,3,719.1,0.0,2157.3,0.0,99.0,2256.3,1618.62,637.68,Credit Card,Website,Delivered
+ORD50142,2025-06-14,CUST1068,P001,Wireless Mouse,Accessories,Hyderabad,Telangana,South,1,719.1,20.0,719.1,143.82,79.0,654.28,433.81,220.47,Net Banking,Mobile App,Delivered
+ORD50110,2025-06-01,CUST1073,P006,Bluetooth Speaker,Audio,Gurugram,Haryana,North,2,2999.0,20.0,5998.0,1199.6,79.0,4877.4,4651.53,225.87,Credit Card,Marketplace,Returned
+ORD50116,2025-05-25,CUST1020,P006,Bluetooth Speaker,Audio,Chennai,Tamil Nadu,South,4,2999.0,10.0,11996.0,1199.6,49.0,10845.4,7886.14,2959.26,Cash on Delivery,Mobile App,Returned
+ORD50246,2025-06-07,CUST1015,P012,Wi-Fi Router,Networking,Gurugram,Haryana,North,2,3599.1,0.0,7198.2,0.0,79.0,7277.2,4506.51,2770.69,Credit Card,Marketplace,Returned
+ORD50114,2025-04-21,CUST1034,P001,Wireless Mouse,Accessories,Kolkata,West Bengal,East,3,838.95,10.0,2516.85,251.68,49.0,2314.17,1697.84,616.33,UPI,Website,Delivered
+ORD50243,2025-06-12,CUST1062,P008,Webcam,Electronics,Gurugram,Haryana,North,4,2969.1,0.0,11876.4,0.0,0.0,11876.4,9304.93,2571.47,Cash on Delivery,Marketplace,Cancelled
+ORD50091,2025-04-18,CUST1049,P008,Webcam,Electronics,Delhi,Delhi,North,2,3299.0,0.0,6598.0,0.0,49.0,6647.0,3866.15,2780.85,Cash on Delivery,Marketplace,Delivered
+ORD50030,2025-04-07,CUST1067,P009,Power Bank,Electronics,Hyderabad,Telangana,South,2,2098.9500000000003,0.0,4197.9,0.0,0.0,4197.9,2558.46,1639.44,Cash on Delivery,Website,Returned
+ORD50171,2025-06-30,CUST1076,P009,Power Bank,Electronics,Gurugram,Haryana,North,3,1999.0,0.0,5997.0,0.0,49.0,6046.0,3755.45,2290.55,UPI,Website,Delivered
+ORD50083,2025-05-18,CUST1057,P012,Wi-Fi Router,Networking,Delhi,Delhi,North,2,3599.1,0.0,7198.2,0.0,99.0,7297.2,4457.85,2839.35,UPI,Mobile App,Cancelled
+ORD50112,2025-04-05,CUST1020,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,1,3148.9500000000003,20.0,3148.95,629.79,0.0,2519.16,1857.44,661.72,Debit Card,Website,Returned
+ORD50006,2025-06-02,CUST1039,P004,27-inch Monitor,Electronics,Kolkata,West Bengal,East,2,19423.95,0.0,38847.9,0.0,0.0,38847.9,23743.1,15104.8,Credit Card,Website,Delivered
+ORD50057,2025-06-01,CUST1060,P006,Bluetooth Speaker,Audio,Delhi,Delhi,North,3,3148.9500000000003,10.0,9446.85,944.68,0.0,8502.17,6235.61,2266.56,Cash on Delivery,Marketplace,Returned
+ORD50133,2025-06-06,CUST1076,P008,Webcam,Electronics,Hyderabad,Telangana,South,2,3463.9500000000003,10.0,6927.9,692.79,79.0,6314.11,5320.01,994.1,Debit Card,Mobile App,Delivered
+ORD50155,2025-05-28,CUST1013,P005,Laptop Stand,Accessories,Hyderabad,Telangana,South,4,1169.1,0.0,4676.4,0.0,99.0,4775.4,3153.31,1622.09,Cash on Delivery,Mobile App,Delivered
+ORD50163,2025-06-22,CUST1077,P010,Desk Lamp,Home Office,Pune,Maharashtra,West,2,1573.95,5.0,3147.9,157.4,99.0,3089.5,1978.79,1110.71,Debit Card,Mobile App,Delivered
+ORD50066,2025-04-27,CUST1068,P001,Wireless Mouse,Accessories,Pune,Maharashtra,West,1,838.95,20.0,838.95,167.79,99.0,770.16,534.62,235.54,Credit Card,Website,Shipped
+ORD50187,2025-05-22,CUST1061,P004,27-inch Monitor,Electronics,Hyderabad,Telangana,South,2,19423.95,15.0,38847.9,5827.18,49.0,33069.72,26124.77,6944.95,Credit Card,Website,Delivered
+ORD50086,2025-04-18,CUST1040,P003,USB-C Hub,Accessories,Pune,Maharashtra,West,4,1599.0,20.0,6396.0,1279.2,0.0,5116.8,4158.0,958.8,Cash on Delivery,Mobile App,Delivered
+ORD50218,2025-06-23,CUST1064,P010,Desk Lamp,Home Office,Pune,Maharashtra,West,4,1499.0,15.0,5996.0,899.4,99.0,5195.6,3660.34,1535.26,Credit Card,Mobile App,Returned
+ORD50237,2025-06-08,CUST1017,P002,Mechanical Keyboard,Accessories,Mumbai,Maharashtra,West,2,2623.9500000000003,10.0,5247.9,524.79,79.0,4802.11,4070.36,731.75,Debit Card,Mobile App,Delivered
+ORD50032,2025-04-26,CUST1011,P012,Wi-Fi Router,Networking,Hyderabad,Telangana,South,3,4198.95,10.0,12596.85,1259.68,0.0,11337.17,8000.48,3336.69,UPI,Marketplace,Delivered
+ORD50013,2025-05-07,CUST1026,P002,Mechanical Keyboard,Accessories,Chennai,Tamil Nadu,South,3,2499.0,15.0,7497.0,1124.55,49.0,6421.45,5812.91,608.54,UPI,Mobile App,Returned
+ORD50036,2025-04-01,CUST1078,P007,Noise Cancelling Headphones,Audio,Pune,Maharashtra,West,3,7873.950000000001,20.0,23621.85,4724.37,0.0,18897.48,16076.73,2820.75,UPI,Mobile App,Delivered
+ORD50029,2025-05-31,CUST1071,P002,Mechanical Keyboard,Accessories,Chennai,Tamil Nadu,South,2,2623.9500000000003,5.0,5247.9,262.4,49.0,5034.5,3514.4,1520.1,UPI,Marketplace,Delivered
+ORD50043,2025-04-29,CUST1059,P006,Bluetooth Speaker,Audio,Chennai,Tamil Nadu,South,3,2999.0,15.0,8997.0,1349.55,99.0,7746.45,6307.67,1438.78,Cash on Delivery,Marketplace,Cancelled
+ORD50113,2025-04-05,CUST1051,P012,Wi-Fi Router,Networking,Hyderabad,Telangana,South,2,3599.1,10.0,7198.2,719.82,0.0,6478.38,4367.75,2110.63,Credit Card,Marketplace,Cancelled
+ORD50023,2025-05-01,CUST1068,P002,Mechanical Keyboard,Accessories,Chennai,Tamil Nadu,South,3,2249.1,10.0,6747.3,674.73,99.0,6171.57,4756.59,1414.98,Debit Card,Website,Cancelled
+ORD50126,2025-05-08,CUST1043,P012,Wi-Fi Router,Networking,Chennai,Tamil Nadu,South,3,3999.0,5.0,11997.0,599.85,99.0,11496.15,9493.12,2003.03,UPI,Mobile App,Delivered
+ORD50094,2025-06-13,CUST1036,P012,Wi-Fi Router,Networking,Chennai,Tamil Nadu,South,4,3599.1,10.0,14396.4,1439.64,0.0,12956.76,10880.5,2076.26,Net Banking,Mobile App,Returned
+ORD50174,2025-04-01,CUST1080,P006,Bluetooth Speaker,Audio,Chennai,Tamil Nadu,South,3,2699.1,5.0,8097.3,404.86,79.0,7771.44,5964.83,1806.61,UPI,Marketplace,Shipped
+ORD50052,2025-05-28,CUST1008,P003,USB-C Hub,Accessories,Chennai,Tamil Nadu,South,3,1678.95,10.0,5036.85,503.68,0.0,4533.17,3664.06,869.11,Net Banking,Marketplace,Returned
+ORD50240,2025-05-28,CUST1052,P005,Laptop Stand,Accessories,Kolkata,West Bengal,East,1,1169.1,10.0,1169.1,116.91,99.0,1151.19,817.79,333.4,UPI,Marketplace,Cancelled
+ORD50096,2025-06-19,CUST1079,P005,Laptop Stand,Accessories,Mumbai,Maharashtra,West,1,1299.0,5.0,1299.0,64.95,99.0,1333.05,906.09,426.96,Cash on Delivery,Mobile App,Delivered
+ORD50147,2025-04-23,CUST1003,P009,Power Bank,Electronics,Bengaluru,Karnataka,South,3,1799.1,10.0,5397.3,539.73,49.0,4906.57,3339.31,1567.26,Cash on Delivery,Website,Cancelled
+ORD50224,2025-04-12,CUST1028,P003,USB-C Hub,Accessories,Chennai,Tamil Nadu,South,4,1599.0,20.0,6396.0,1279.2,99.0,5215.8,5166.19,49.61,UPI,Website,Shipped
+ORD50077,2025-05-27,CUST1077,P003,USB-C Hub,Accessories,Gurugram,Haryana,North,2,1599.0,10.0,3198.0,319.8,79.0,2957.2,2131.65,825.55,Debit Card,Marketplace,Delivered
+ORD50042,2025-04-18,CUST1014,P004,27-inch Monitor,Electronics,Chennai,Tamil Nadu,South,1,18499.0,10.0,18499.0,1849.9,0.0,16649.1,10975.36,5673.74,Cash on Delivery,Website,Delivered
+ORD50120,2025-06-21,CUST1062,P011,External SSD 1TB,Storage,Hyderabad,Telangana,South,1,6899.0,5.0,6899.0,344.95,79.0,6633.05,4270.88,2362.17,Cash on Delivery,Marketplace,Returned
+ORD50156,2025-04-07,CUST1038,P004,27-inch Monitor,Electronics,Hyderabad,Telangana,South,3,16649.100000000002,15.0,49947.3,7492.1,79.0,42534.2,36158.19,6376.01,Net Banking,Marketplace,Delivered
+ORD50079,2025-04-07,CUST1066,P007,Noise Cancelling Headphones,Audio,Gurugram,Haryana,North,2,6749.1,10.0,13498.2,1349.82,0.0,12148.38,10556.65,1591.73,UPI,Website,Delivered
+ORD50151,2025-05-19,CUST1068,P011,External SSD 1TB,Storage,Chennai,Tamil Nadu,South,1,6899.0,10.0,6899.0,689.9,79.0,6288.1,4311.44,1976.66,Cash on Delivery,Website,Returned
+ORD50027,2025-04-24,CUST1015,P003,USB-C Hub,Accessories,Kolkata,West Bengal,East,3,1599.0,5.0,4797.0,239.85,99.0,4656.15,3859.91,796.24,UPI,Mobile App,Shipped
+ORD50247,2025-06-01,CUST1034,P012,Wi-Fi Router,Networking,Bengaluru,Karnataka,South,4,3599.1,20.0,14396.4,2879.28,49.0,11566.12,11164.03,402.09,Credit Card,Marketplace,Cancelled
+ORD50169,2025-05-08,CUST1053,P008,Webcam,Electronics,Bengaluru,Karnataka,South,2,3299.0,5.0,6598.0,329.9,49.0,6317.1,4173.4,2143.7,Cash on Delivery,Website,Delivered
+ORD50119,2025-04-22,CUST1019,P010,Desk Lamp,Home Office,Mumbai,Maharashtra,West,1,1499.0,0.0,1499.0,0.0,49.0,1548.0,1074.2,473.8,Debit Card,Marketplace,Cancelled
+ORD50193,2025-04-10,CUST1037,P010,Desk Lamp,Home Office,Kolkata,West Bengal,East,1,1349.1,20.0,1349.1,269.82,99.0,1178.28,819.82,358.46,Net Banking,Mobile App,Cancelled
+ORD50141,2025-06-29,CUST1029,P004,27-inch Monitor,Electronics,Gurugram,Haryana,North,2,19423.95,20.0,38847.9,7769.58,0.0,31078.32,31690.87,-612.55,Cash on Delivery,Mobile App,Cancelled
+ORD50001,2025-06-03,CUST1043,P002,Mechanical Keyboard,Accessories,Gurugram,Haryana,North,3,2623.9500000000003,10.0,7871.85,787.18,0.0,7084.67,4743.6,2341.07,Cash on Delivery,Marketplace,Delivered
+ORD50003,2025-05-21,CUST1069,P005,Laptop Stand,Accessories,Gurugram,Haryana,North,3,1169.1,10.0,3507.3,350.73,0.0,3156.57,2087.95,1068.62,Cash on Delivery,Website,Delivered
+ORD50078,2025-04-25,CUST1064,P009,Power Bank,Electronics,Chennai,Tamil Nadu,South,4,2098.9500000000003,0.0,8395.8,0.0,79.0,8474.8,5917.91,2556.89,Credit Card,Website,Returned
+ORD50047,2025-05-19,CUST1078,P008,Webcam,Electronics,Delhi,Delhi,North,3,2969.1,15.0,8907.3,1336.1,99.0,7670.2,6265.51,1404.69,Cash on Delivery,Marketplace,Cancelled
+ORD50101,2025-04-22,CUST1042,P010,Desk Lamp,Home Office,Hyderabad,Telangana,South,3,1573.95,20.0,4721.85,944.37,49.0,3826.48,3705.08,121.4,Credit Card,Marketplace,Shipped
+ORD50205,2025-04-15,CUST1012,P012,Wi-Fi Router,Networking,Bengaluru,Karnataka,South,4,3599.1,10.0,14396.4,1439.64,79.0,13035.76,11027.32,2008.44,Debit Card,Website,Delivered
+ORD50160,2025-05-13,CUST1036,P011,External SSD 1TB,Storage,Bengaluru,Karnataka,South,2,6899.0,0.0,13798.0,0.0,49.0,13847.0,9354.46,4492.54,Credit Card,Website,Shipped
+ORD50184,2025-06-26,CUST1070,P008,Webcam,Electronics,Pune,Maharashtra,West,2,2969.1,20.0,5938.2,1187.64,99.0,4849.56,4834.54,15.02,Debit Card,Website,Delivered
+ORD50099,2025-06-07,CUST1031,P010,Desk Lamp,Home Office,Delhi,Delhi,North,3,1573.95,15.0,4721.85,708.28,79.0,4092.57,3646.26,446.31,UPI,Marketplace,Delivered
+ORD50037,2025-06-11,CUST1054,P003,USB-C Hub,Accessories,Kolkata,West Bengal,East,3,1599.0,20.0,4797.0,959.4,79.0,3916.6,2802.8,1113.8,UPI,Website,Delivered
+ORD50062,2025-05-17,CUST1074,P010,Desk Lamp,Home Office,Hyderabad,Telangana,South,2,1349.1,20.0,2698.2,539.64,49.0,2207.56,1760.47,447.09,Net Banking,Marketplace,Delivered
+ORD50200,2025-05-16,CUST1058,P004,27-inch Monitor,Electronics,Kolkata,West Bengal,East,2,18499.0,0.0,36998.0,0.0,0.0,36998.0,22933.4,14064.6,Cash on Delivery,Mobile App,Delivered
+ORD50143,2025-04-15,CUST1030,P005,Laptop Stand,Accessories,Chennai,Tamil Nadu,South,3,1169.1,0.0,3507.3,0.0,49.0,3556.3,2751.35,804.95,Debit Card,Mobile App,Delivered
+ORD50012,2025-06-23,CUST1024,P005,Laptop Stand,Accessories,Kolkata,West Bengal,East,4,1363.95,0.0,5455.8,0.0,0.0,5455.8,3532.81,1922.99,Debit Card,Mobile App,Delivered
+ORD50250,2025-06-09,CUST1008,P012,Wi-Fi Router,Networking,Kolkata,West Bengal,East,1,4198.95,5.0,4198.95,209.95,79.0,4068.0,3251.61,816.39,UPI,Mobile App,Delivered
+ORD50242,2025-05-12,CUST1046,P001,Wireless Mouse,Accessories,Delhi,Delhi,North,1,799.0,10.0,799.0,79.9,49.0,768.1,541.54,226.56,Net Banking,Mobile App,Delivered
+ORD50028,2025-06-16,CUST1072,P001,Wireless Mouse,Accessories,Bengaluru,Karnataka,South,2,719.1,20.0,1438.2,287.64,99.0,1249.56,1092.55,157.01,Credit Card,Marketplace,Returned
+ORD50231,2025-05-02,CUST1063,P006,Bluetooth Speaker,Audio,Delhi,Delhi,North,1,2999.0,20.0,2999.0,599.8,49.0,2448.2,2216.28,231.92,Net Banking,Marketplace,Cancelled
+ORD50005,2025-06-02,CUST1030,P005,Laptop Stand,Accessories,Hyderabad,Telangana,South,2,1169.1,0.0,2338.2,0.0,79.0,2417.2,1774.09,643.11,Cash on Delivery,Mobile App,Shipped
+ORD50123,2025-04-02,CUST1053,P010,Desk Lamp,Home Office,Mumbai,Maharashtra,West,4,1499.0,0.0,5996.0,0.0,49.0,6045.0,3715.82,2329.18,Net Banking,Marketplace,Cancelled
+ORD50033,2025-05-23,CUST1070,P012,Wi-Fi Router,Networking,Mumbai,Maharashtra,West,2,4198.95,10.0,8397.9,839.79,99.0,7657.11,5273.43,2383.68,Cash on Delivery,Website,Returned
+ORD50148,2025-05-06,CUST1043,P011,External SSD 1TB,Storage,Mumbai,Maharashtra,West,4,6209.1,5.0,24836.4,1241.82,49.0,23643.58,17562.79,6080.79,Cash on Delivery,Mobile App,Shipped
+ORD50183,2025-05-07,CUST1069,P005,Laptop Stand,Accessories,Pune,Maharashtra,West,1,1363.95,0.0,1363.95,0.0,0.0,1363.95,1115.29,248.66,UPI,Marketplace,Delivered
+ORD50139,2025-05-13,CUST1011,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,4,2999.0,0.0,11996.0,0.0,0.0,11996.0,7704.62,4291.38,UPI,Website,Delivered
+ORD50063,2025-04-26,CUST1004,P007,Noise Cancelling Headphones,Audio,Mumbai,Maharashtra,West,2,7873.950000000001,20.0,15747.9,3149.58,79.0,12677.32,12296.83,380.49,UPI,Mobile App,Delivered
+ORD50136,2025-05-23,CUST1075,P004,27-inch Monitor,Electronics,Bengaluru,Karnataka,South,3,18499.0,10.0,55497.0,5549.7,49.0,49996.3,40203.47,9792.83,Debit Card,Mobile App,Shipped
+ORD50129,2025-05-22,CUST1058,P007,Noise Cancelling Headphones,Audio,Hyderabad,Telangana,South,4,7873.950000000001,15.0,31495.8,4724.37,99.0,26870.43,24000.47,2869.96,Cash on Delivery,Website,Shipped
+ORD50232,2025-04-05,CUST1059,P012,Wi-Fi Router,Networking,Delhi,Delhi,North,2,3999.0,10.0,7998.0,799.8,99.0,7297.2,5609.66,1687.54,Debit Card,Mobile App,Delivered
+ORD50194,2025-04-14,CUST1080,P002,Mechanical Keyboard,Accessories,Pune,Maharashtra,West,4,2249.1,20.0,8996.4,1799.28,99.0,7296.12,6353.75,942.37,Debit Card,Website,Cancelled
+ORD50071,2025-06-11,CUST1070,P010,Desk Lamp,Home Office,Pune,Maharashtra,West,2,1499.0,20.0,2998.0,599.6,79.0,2477.4,2196.75,280.65,Debit Card,Mobile App,Shipped
+ORD50197,2025-04-10,CUST1003,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,3,2699.1,5.0,8097.3,404.86,99.0,7791.44,6379.66,1411.78,Debit Card,Mobile App,Delivered
+ORD50065,2025-06-22,CUST1073,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,4,2699.1,15.0,10796.4,1619.46,0.0,9176.94,7962.39,1214.55,UPI,Website,Cancelled
+ORD50045,2025-04-10,CUST1009,P004,27-inch Monitor,Electronics,Mumbai,Maharashtra,West,1,18499.0,5.0,18499.0,924.95,99.0,17673.05,14429.78,3243.27,UPI,Mobile App,Returned
+ORD50166,2025-06-04,CUST1040,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,4,2699.1,20.0,10796.4,2159.28,49.0,8686.12,7672.91,1013.21,Debit Card,Mobile App,Returned
+ORD50157,2025-06-16,CUST1080,P007,Noise Cancelling Headphones,Audio,Bengaluru,Karnataka,South,3,7873.950000000001,0.0,23621.85,0.0,99.0,23720.85,13928.88,9791.97,Debit Card,Website,Delivered
+ORD50041,2025-04-14,CUST1048,P005,Laptop Stand,Accessories,Pune,Maharashtra,West,1,1169.1,20.0,1169.1,233.82,99.0,1034.28,936.49,97.79,UPI,Website,Delivered
+ORD50124,2025-04-22,CUST1011,P009,Power Bank,Electronics,Bengaluru,Karnataka,South,3,1799.1,20.0,5397.3,1079.46,99.0,4416.84,3899.65,517.19,Net Banking,Website,Delivered
+ORD50154,2025-04-26,CUST1023,P012,Wi-Fi Router,Networking,Chennai,Tamil Nadu,South,2,4198.95,5.0,8397.9,419.9,0.0,7978.0,6872.91,1105.09,Cash on Delivery,Website,Shipped
+ORD50024,2025-04-29,CUST1009,P001,Wireless Mouse,Accessories,Bengaluru,Karnataka,South,4,799.0,0.0,3196.0,0.0,0.0,3196.0,2278.65,917.35,Net Banking,Marketplace,Returned
+ORD50228,2025-06-23,CUST1034,P007,Noise Cancelling Headphones,Audio,Kolkata,West Bengal,East,2,6749.1,5.0,13498.2,674.91,49.0,12872.29,9377.3,3494.99,Cash on Delivery,Website,Returned
+ORD50216,2025-04-16,CUST1078,P011,External SSD 1TB,Storage,Gurugram,Haryana,North,3,7243.950000000001,15.0,21731.85,3259.78,49.0,18521.07,12933.67,5587.4,Credit Card,Website,Delivered
+ORD50082,2025-04-14,CUST1057,P012,Wi-Fi Router,Networking,Mumbai,Maharashtra,West,4,3999.0,10.0,15996.0,1599.6,49.0,14445.4,11917.65,2527.75,Net Banking,Mobile App,Cancelled
+ORD50040,2025-06-20,CUST1006,P003,USB-C Hub,Accessories,Bengaluru,Karnataka,South,1,1678.95,20.0,1678.95,335.79,99.0,1442.16,1016.21,425.95,Debit Card,Mobile App,Cancelled
+ORD50214,2025-05-06,CUST1004,P012,Wi-Fi Router,Networking,Delhi,Delhi,North,1,3999.0,5.0,3999.0,199.95,49.0,3848.05,3186.07,661.98,Credit Card,Marketplace,Cancelled
+ORD50048,2025-05-10,CUST1039,P006,Bluetooth Speaker,Audio,Gurugram,Haryana,North,2,2699.1,15.0,5398.2,809.73,49.0,4637.47,3312.04,1325.43,UPI,Mobile App,Shipped
+ORD50095,2025-04-27,CUST1078,P012,Wi-Fi Router,Networking,Delhi,Delhi,North,2,4198.95,20.0,8397.9,1679.58,0.0,6718.32,6349.66,368.66,Net Banking,Mobile App,Delivered
+ORD50195,2025-05-23,CUST1074,P003,USB-C Hub,Accessories,Hyderabad,Telangana,South,1,1678.95,5.0,1678.95,83.95,0.0,1595.0,1298.64,296.36,UPI,Marketplace,Delivered
+ORD50162,2025-04-16,CUST1011,P003,USB-C Hub,Accessories,Pune,Maharashtra,West,4,1678.95,20.0,6715.8,1343.16,0.0,5372.64,4971.6,401.04,Cash on Delivery,Website,Returned
+ORD50044,2025-05-29,CUST1046,P011,External SSD 1TB,Storage,Chennai,Tamil Nadu,South,1,7243.950000000001,10.0,7243.95,724.4,0.0,6519.55,4635.06,1884.49,Cash on Delivery,Mobile App,Delivered
+ORD50146,2025-04-13,CUST1069,P003,USB-C Hub,Accessories,Delhi,Delhi,North,2,1439.1,0.0,2878.2,0.0,0.0,2878.2,2159.97,718.23,Debit Card,Marketplace,Delivered
+ORD50176,2025-06-01,CUST1067,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,1,3148.9500000000003,5.0,3148.95,157.45,49.0,3040.5,2421.52,618.98,Cash on Delivery,Marketplace,Cancelled
+ORD50004,2025-06-01,CUST1063,P008,Webcam,Electronics,Pune,Maharashtra,West,4,2969.1,15.0,11876.4,1781.46,99.0,10193.94,9434.01,759.93,Net Banking,Website,Delivered
+ORD50106,2025-06-20,CUST1077,P001,Wireless Mouse,Accessories,Bengaluru,Karnataka,South,2,838.95,20.0,1677.9,335.58,49.0,1391.32,1142.47,248.85,Cash on Delivery,Marketplace,Shipped
+ORD50054,2025-04-05,CUST1008,P010,Desk Lamp,Home Office,Kolkata,West Bengal,East,4,1349.1,20.0,5396.4,1079.28,49.0,4366.12,3894.14,471.98,Debit Card,Mobile App,Returned
+ORD50134,2025-04-01,CUST1017,P002,Mechanical Keyboard,Accessories,Gurugram,Haryana,North,4,2623.9500000000003,15.0,10495.8,1574.37,99.0,9020.43,6339.12,2681.31,Debit Card,Marketplace,Returned
+ORD50233,2025-04-19,CUST1010,P007,Noise Cancelling Headphones,Audio,Pune,Maharashtra,West,3,6749.1,15.0,20247.3,3037.1,49.0,17259.2,14789.4,2469.8,Net Banking,Website,Delivered
+ORD50198,2025-06-12,CUST1075,P005,Laptop Stand,Accessories,Delhi,Delhi,North,2,1363.95,10.0,2727.9,272.79,79.0,2534.11,2188.93,345.18,Net Banking,Mobile App,Delivered
+ORD50238,2025-05-02,CUST1032,P010,Desk Lamp,Home Office,Bengaluru,Karnataka,South,1,1349.1,5.0,1349.1,67.46,0.0,1281.64,933.84,347.8,Net Banking,Website,Delivered
+ORD50050,2025-05-12,CUST1043,P004,27-inch Monitor,Electronics,Gurugram,Haryana,North,4,19423.95,15.0,77695.8,11654.37,49.0,66090.43,51186.51,14903.92,Cash on Delivery,Marketplace,Returned
+ORD50164,2025-04-06,CUST1026,P009,Power Bank,Electronics,Gurugram,Haryana,North,4,2098.9500000000003,10.0,8395.8,839.58,49.0,7605.22,6129.9,1475.32,Net Banking,Marketplace,Shipped
+ORD50081,2025-05-25,CUST1041,P009,Power Bank,Electronics,Gurugram,Haryana,North,2,1799.1,5.0,3598.2,179.91,0.0,3418.29,2190.3,1227.99,Credit Card,Mobile App,Cancelled
+ORD50035,2025-04-27,CUST1040,P002,Mechanical Keyboard,Accessories,Hyderabad,Telangana,South,3,2623.9500000000003,15.0,7871.85,1180.78,79.0,6770.07,6312.86,457.21,UPI,Mobile App,Delivered
+ORD50245,2025-04-16,CUST1060,P006,Bluetooth Speaker,Audio,Bengaluru,Karnataka,South,4,2699.1,10.0,10796.4,1079.64,0.0,9716.76,6767.66,2949.1,UPI,Mobile App,Shipped
+ORD50008,2025-06-15,CUST1016,P010,Desk Lamp,Home Office,Gurugram,Haryana,North,2,1349.1,20.0,2698.2,539.64,79.0,2237.56,1655.46,582.1,Cash on Delivery,Website,Delivered
+ORD50172,2025-06-25,CUST1012,P006,Bluetooth Speaker,Audio,Hyderabad,Telangana,South,3,2699.1,20.0,8097.3,1619.46,99.0,6576.84,4831.77,1745.07,Debit Card,Marketplace,Returned
+ORD50111,2025-05-30,CUST1063,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,1,2699.1,10.0,2699.1,269.91,49.0,2478.19,2184.34,293.85,Debit Card,Marketplace,Delivered
+ORD50092,2025-04-16,CUST1057,P006,Bluetooth Speaker,Audio,Hyderabad,Telangana,South,2,2999.0,0.0,5998.0,0.0,0.0,5998.0,3879.06,2118.94,Debit Card,Mobile App,Shipped
+ORD50084,2025-05-30,CUST1012,P011,External SSD 1TB,Storage,Kolkata,West Bengal,East,4,6209.1,20.0,24836.4,4967.28,99.0,19968.12,20308.16,-340.04,Debit Card,Mobile App,Shipped
+ORD50229,2025-04-05,CUST1002,P009,Power Bank,Electronics,Chennai,Tamil Nadu,South,1,1999.0,5.0,1999.0,99.95,79.0,1978.05,1630.25,347.8,Debit Card,Mobile App,Cancelled
+ORD50234,2025-04-26,CUST1016,P011,External SSD 1TB,Storage,Delhi,Delhi,North,2,6209.1,10.0,12418.2,1241.82,99.0,11275.38,7662.79,3612.59,Credit Card,Website,Delivered
+ORD50090,2025-04-02,CUST1032,P011,External SSD 1TB,Storage,Hyderabad,Telangana,South,2,7243.950000000001,10.0,14487.9,1448.79,79.0,13118.11,8768.01,4350.1,Cash on Delivery,Marketplace,Delivered
+ORD50009,2025-06-11,CUST1041,P010,Desk Lamp,Home Office,Gurugram,Haryana,North,4,1573.95,15.0,6295.8,944.37,49.0,5400.43,4344.98,1055.45,Debit Card,Website,Delivered
+ORD50014,2025-06-21,CUST1041,P001,Wireless Mouse,Accessories,Mumbai,Maharashtra,West,1,838.95,15.0,838.95,125.84,49.0,762.11,519.06,243.05,Cash on Delivery,Website,Cancelled
+ORD50060,2025-05-09,CUST1010,P006,Bluetooth Speaker,Audio,Pune,Maharashtra,West,2,2699.1,15.0,5398.2,809.73,79.0,4667.47,4363.29,304.18,Credit Card,Marketplace,Returned
+ORD50221,2025-04-15,CUST1023,P003,USB-C Hub,Accessories,Kolkata,West Bengal,East,4,1439.1,15.0,5756.4,863.46,49.0,4941.94,3623.06,1318.88,Cash on Delivery,Marketplace,Delivered
+ORD50132,2025-06-20,CUST1059,P003,USB-C Hub,Accessories,Kolkata,West Bengal,East,4,1439.1,20.0,5756.4,1151.28,0.0,4605.12,3987.76,617.36,Net Banking,Marketplace,Returned
+ORD50018,2025-05-13,CUST1069,P006,Bluetooth Speaker,Audio,Delhi,Delhi,North,1,3148.9500000000003,15.0,3148.95,472.34,79.0,2755.61,1959.99,795.62,Unknown,Marketplace,Delivered
+ORD50167,2025-06-24,CUST1075,P010,Desk Lamp,Home Office,Bengaluru,Karnataka,South,4,1573.95,5.0,6295.8,314.79,99.0,6080.01,4925.82,1154.19,Cash on Delivery,Website,Delivered
+ORD50073,2025-05-14,CUST1078,P002,Mechanical Keyboard,Accessories,Pune,Maharashtra,West,2,2499.0,10.0,4998.0,499.8,99.0,4597.2,3041.84,1555.36,UPI,Marketplace,Cancelled
+ORD50226,2025-06-13,CUST1019,P003,USB-C Hub,Accessories,Chennai,Tamil Nadu,South,2,1439.1,0.0,2878.2,0.0,79.0,2957.2,1969.67,987.53,Net Banking,Marketplace,Shipped
+ORD50135,2025-06-05,CUST1051,P006,Bluetooth Speaker,Audio,Mumbai,Maharashtra,West,1,2999.0,20.0,2999.0,599.8,99.0,2498.2,2378.26,119.94,Credit Card,Mobile App,Returned
+ORD50209,2025-04-03,CUST1041,P001,Wireless Mouse,Accessories,Bengaluru,Karnataka,South,3,838.95,5.0,2516.85,125.84,0.0,2391.01,1774.15,616.86,Debit Card,Mobile App,Cancelled
+ORD50236,2025-06-04,CUST1045,P006,Bluetooth Speaker,Audio,Gurugram,Haryana,North,1,2699.1,5.0,2699.1,134.96,49.0,2613.14,1647.93,965.21,Cash on Delivery,Marketplace,Delivered
+ORD50064,2025-06-18,CUST1003,P012,Wi-Fi Router,Networking,Mumbai,Maharashtra,West,3,3999.0,0.0,11997.0,0.0,0.0,11997.0,9541.07,2455.93,Credit Card,Website,Shipped
+ORD50055,2025-05-13,CUST1059,P003,USB-C Hub,Accessories,Pune,Maharashtra,West,1,1599.0,10.0,1599.0,159.9,49.0,1488.1,1127.99,360.11,Net Banking,Marketplace,Delivered
+ORD50108,2025-06-17,CUST1020,P007,Noise Cancelling Headphones,Audio,Kolkata,West Bengal,East,3,7499.0,5.0,22497.0,1124.85,79.0,21451.15,14664.71,6786.44,Credit Card,Website,Shipped
+ORD50051,2025-05-28,CUST1015,P006,Bluetooth Speaker,Audio,Delhi,Delhi,North,1,2999.0,20.0,2999.0,599.8,99.0,2498.2,1946.82,551.38,Net Banking,Website,Shipped
+ORD50212,2025-05-24,CUST1053,P012,Wi-Fi Router,Networking,Pune,Maharashtra,West,2,3999.0,0.0,7998.0,399.9,99.0,7697.1,4793.81,2903.29,Cash on Delivery,Marketplace,Cancelled
+ORD50175,2025-06-28,CUST1024,P001,Wireless Mouse,Accessories,Chennai,Tamil Nadu,South,1,838.95,0.0,838.95,0.0,0.0,838.95,550.69,288.26,Debit Card,Website,Cancelled
+ORD50213,2025-04-04,CUST1030,P011,External SSD 1TB,Storage,Delhi,Delhi,North,2,6899.0,10.0,13798.0,1379.8,49.0,12467.2,9773.18,2694.02,Cash on Delivery,Mobile App,Delivered
+ORD50190,2025-04-28,CUST1055,P012,Wi-Fi Router,Networking,Hyderabad,Telangana,South,1,3999.0,5.0,3999.0,199.95,79.0,3878.05,2507.04,1371.01,UPI,Website,Delivered
+ORD50208,2025-06-20,CUST1064,P008,Webcam,Electronics,Kolkata,West Bengal,East,2,2969.1,20.0,5938.2,1187.64,49.0,4799.56,3612.89,1186.67,Credit Card,Marketplace,Delivered
+ORD50227,2025-04-10,CUST1043,P011,External SSD 1TB,Storage,Pune,Maharashtra,West,3,6209.1,20.0,18627.3,3725.46,99.0,15000.84,13028.59,1972.25,Debit Card,Website,Cancelled
+ORD50170,2025-04-13,CUST1068,P011,External SSD 1TB,Storage,Chennai,Tamil Nadu,South,1,6209.1,5.0,6209.1,310.46,49.0,5947.64,4789.72,1157.92,Credit Card,Website,Delivered
+ORD50059,2025-05-21,CUST1029,P007,Noise Cancelling Headphones,Audio,Hyderabad,Telangana,South,3,7873.950000000001,5.0,23621.85,1181.09,0.0,22440.76,19007.88,3432.88,Net Banking,Mobile App,Delivered
+ORD50219,2025-06-04,CUST1037,P005,Laptop Stand,Accessories,Chennai,Tamil Nadu,South,4,1363.95,20.0,5455.8,1091.16,49.0,4413.64,3796.72,616.92,Debit Card,Marketplace,Delivered
+ORD50049,2025-04-30,CUST1015,P008,Webcam,Electronics,Pune,Maharashtra,West,2,3299.0,5.0,6598.0,329.9,79.0,6347.1,4427.73,1919.37,Net Banking,Website,Shipped
+ORD50022,2025-06-01,CUST1040,P012,Wi-Fi Router,Networking,Hyderabad,Telangana,South,2,3599.1,10.0,7198.2,719.82,0.0,6478.38,5015.69,1462.69,Debit Card,Marketplace,Cancelled
+ORD50058,2025-06-27,CUST1012,P010,Desk Lamp,Home Office,Delhi,Delhi,North,2,1499.0,15.0,2998.0,449.7,49.0,2597.3,1852.24,745.06,UPI,Marketplace,Delivered
+ORD50204,2025-06-25,CUST1027,P011,External SSD 1TB,Storage,Pune,Maharashtra,West,2,6899.0,5.0,13798.0,689.9,0.0,13108.1,10607.85,2500.25,Cash on Delivery,Marketplace,Delivered
+ORD50161,2025-05-31,CUST1071,P010,Desk Lamp,Home Office,Mumbai,Maharashtra,West,2,1499.0,15.0,2998.0,449.7,79.0,2627.3,1753.06,874.24,Credit Card,Marketplace,Delivered
+ORD50248,2025-06-03,CUST1021,P004,27-inch Monitor,Electronics,Bengaluru,Karnataka,South,4,16649.100000000002,10.0,66596.4,6659.64,49.0,59985.76,45538.87,14446.89,Net Banking,Marketplace,Delivered
+ORD50188,2025-05-03,CUST1001,P007,Noise Cancelling Headphones,Audio,Pune,Maharashtra,West,2,7499.0,10.0,14998.0,1499.8,79.0,13577.2,8936.69,4640.51,UPI,Website,Shipped
+ORD50192,2025-06-24,CUST1049,P004,27-inch Monitor,Electronics,Bengaluru,Karnataka,South,2,18499.0,5.0,36998.0,1849.9,49.0,35197.1,23810.2,11386.9,Debit Card,Website,Delivered
+ORD50130,2025-05-09,CUST1033,P006,Bluetooth Speaker,Audio,Kolkata,West Bengal,East,3,2699.1,20.0,8097.3,1619.46,99.0,6576.84,5707.42,869.42,Cash on Delivery,Website,Delivered
+ORD50038,2025-06-24,CUST1070,P010,Desk Lamp,Home Office,Bengaluru,Karnataka,South,4,1499.0,10.0,5996.0,599.6,79.0,5475.4,4349.76,1125.64,Net Banking,Mobile App,Delivered
+ORD50158,2025-04-16,CUST1025,P011,External SSD 1TB,Storage,Delhi,Delhi,North,3,6899.0,5.0,20697.0,1034.85,79.0,19741.15,15282.64,4458.51,Credit Card,Marketplace,Returned
+ORD50241,2025-06-22,CUST1029,P008,Webcam,Electronics,Kolkata,West Bengal,East,2,3463.9500000000003,15.0,6927.9,1039.18,99.0,5987.72,5334.13,653.59,Debit Card,Marketplace,Delivered
+ORD50002,2025-04-17,CUST1075,P010,Desk Lamp,Home Office,Delhi,Delhi,North,4,1573.95,10.0,6295.8,629.58,49.0,5715.22,4211.84,1503.38,Net Banking,Mobile App,Delivered
+ORD50053,2025-06-27,CUST1033,P007,Noise Cancelling Headphones,Audio,Mumbai,Maharashtra,West,3,6749.1,20.0,20247.3,4049.46,99.0,16296.84,15635.21,661.63,Debit Card,Mobile App,Cancelled
+ORD50150,2025-04-15,CUST1074,P007,Noise Cancelling Headphones,Audio,Kolkata,West Bengal,East,1,7873.950000000001,0.0,7873.95,0.0,0.0,7873.95,4791.68,3082.27,UPI,Website,Delivered
+ORD50131,2025-04-14,CUST1022,P010,Desk Lamp,Home Office,Kolkata,West Bengal,East,3,1573.95,5.0,4721.85,236.09,49.0,4534.76,3828.34,706.42,UPI,Marketplace,Delivered
+ORD50152,2025-06-02,,P010,Desk Lamp,Home Office,Gurugram,Haryana,North,3,1573.95,5.0,4721.85,236.09,0.0,4485.76,3782.01,703.75,Debit Card,Website,Delivered
+ORD50104,2025-06-06,CUST1048,P005,Laptop Stand,Accessories,Chennai,Tamil Nadu,South,1,1169.1,0.0,1169.1,0.0,99.0,1268.1,874.73,393.37,UPI,Mobile App,Shipped
+ORD50100,2025-04-24,CUST1055,P003,USB-C Hub,Accessories,Mumbai,Maharashtra,West,3,1599.0,5.0,4797.0,239.85,0.0,4557.15,3374.74,1182.41,Debit Card,Website,Returned
+ORD50117,2025-06-24,CUST1040,P011,External SSD 1TB,Storage,Delhi,Delhi,North,2,6209.1,5.0,12418.2,620.91,0.0,11797.29,7347.31,4449.98,Debit Card,Marketplace,Cancelled
+ORD50088,2025-06-20,CUST1028,P009,Power Bank,Electronics,Gurugram,Haryana,North,4,2098.9500000000003,15.0,8395.8,1259.37,49.0,7185.43,5956.71,1228.72,Cash on Delivery,Marketplace,Delivered
+ORD50203,2025-05-22,CUST1027,P012,Wi-Fi Router,Networking,Mumbai,Maharashtra,West,3,4198.95,0.0,12596.85,0.0,99.0,12695.85,7386.39,5309.46,Net Banking,Website,Returned
+ORD50075,2025-04-04,CUST1039,P011,External SSD 1TB,Storage,Pune,Maharashtra,West,4,6209.1,10.0,24836.4,2483.64,99.0,22451.76,16899.08,5552.68,Debit Card,Website,Shipped
+ORD50215,2025-06-15,CUST1058,P010,Desk Lamp,Home Office,Gurugram,Haryana,North,4,1349.1,0.0,5396.4,0.0,0.0,5396.4,3331.64,2064.76,Debit Card,Website,Delivered
+ORD50211,2025-04-18,CUST1015,P012,Wi-Fi Router,Networking,Chennai,Tamil Nadu,South,4,3599.1,5.0,14396.4,719.82,79.0,13755.58,9538.97,4216.61,UPI,Mobile App,Delivered
+ORD50122,2025-05-17,CUST1034,P010,Desk Lamp,Home Office,Pune,Maharashtra,West,2,1349.1,10.0,2698.2,269.82,79.0,2507.38,1705.06,802.32,Net Banking,Website,Cancelled
+ORD50021,2025-05-02,CUST1024,P010,Desk Lamp,Home Office,Pune,Maharashtra,West,2,1499.0,20.0,2998.0,599.6,49.0,2447.4,2164.02,283.38,UPI,Website,Returned
+ORD50189,2025-06-21,CUST1067,P008,Webcam,Electronics,Kolkata,West Bengal,East,4,2969.1,15.0,11876.4,1781.46,99.0,10193.94,8227.84,1966.1,Debit Card,Marketplace,Cancelled
+ORD50072,2025-04-24,CUST1052,P002,Mechanical Keyboard,Accessories,Pune,Maharashtra,West,4,2499.0,10.0,9996.0,999.6,79.0,9075.4,7476.47,1598.93,Debit Card,Marketplace,Delivered
+ORD50107,2025-04-22,CUST1072,P007,Noise Cancelling Headphones,Audio,Chennai,Tamil Nadu,South,4,7873.950000000001,5.0,31495.8,1574.79,49.0,29970.01,20726.83,9243.18,Cash on Delivery,Website,Delivered
+ORD50015,2025-04-28,CUST1049,P006,Bluetooth Speaker,Audio,Delhi,Delhi,North,2,2999.0,10.0,5998.0,599.8,0.0,5398.2,4386.14,1012.06,Credit Card,Marketplace,Delivered
+ORD50093,2025-06-09,CUST1042,P009,Power Bank,Electronics,Kolkata,West Bengal,East,4,1999.0,15.0,7996.0,1199.4,99.0,6895.6,6371.2,524.4,Net Banking,Website,Returned
+ORD50180,2025-05-12,CUST1066,P003,USB-C Hub,Accessories,Mumbai,Maharashtra,West,1,1439.1,0.0,1439.1,0.0,99.0,1538.1,1020.82,517.28,UPI,Website,Returned
+ORD50103,2025-06-13,CUST1052,P009,Power Bank,Electronics,Mumbai,Maharashtra,West,3,2098.9500000000003,5.0,6296.85,314.84,49.0,6031.01,5161.52,869.49,Credit Card,Marketplace,Delivered

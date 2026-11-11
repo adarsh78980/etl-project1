@@ -1,0 +1,2 @@
+OrderID,OrderDate,CustomerID,ProductID,ProductName,Category,City,State,Region,Quantity,UnitPrice,DiscountPct,GrossAmount,DiscountAmount,ShippingFee,NetAmount,CostAmount,Profit,PaymentMethod,SalesChannel,OrderStatus
+ORD50191,2025-04-17,CUST1053,P011,External SSD 1TB,Storage,Mumbai,Maharashtra,West,0,6899.0,5.0,13798.0,689.9,79.0,13187.1,8448.88,4738.22,Cash on Delivery,Website,Delivered
